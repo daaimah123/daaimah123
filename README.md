@@ -1,37 +1,83 @@
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="600">
+  <!-- Full-width banner image -->
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px;">
   
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
-  <p>
-    <a href="https://github.com/daaimah123"><img src="https://img.shields.io/github/followers/daaimah123?label=Follow&style=social" alt="GitHub"></a>
-    <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-Daaimah_Tibrey-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/daaimah123"><img src="https://img.shields.io/twitter/follow/daaimah123?style=social" alt="Twitter"></a>
-  </p>
+  <!-- Rainbow typing text effect using SVG - this renders as an animated image -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=300&color=F70000,FF8C00,FFD700,00FF00,00BFFF,0000FF,A020F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hello+there!+I'm+a+passionate+developer;Building+innovative+solutions;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
 </div>
 
-<!-- Rainbow typing text effect using SVG - this renders as an animated image -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=300&color=F70000,FF8C00,FFD700,00FF00,00BFFF,0000FF,A020F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hello+there!+I'm+a+passionate+developer;Building+innovative+solutions;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
-</p>
+<!-- Decorative side elements -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/assets/left-decoration.gif" width="150" align="left" alt="">
+  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/assets/right-decoration.gif" width="150" align="right" alt="">
+</div>
 
-## 💻 Tech Stack
+## 💻 Skills & Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  </p>
+  
+  <!-- Frameworks & Libraries -->
+  <h3>Frameworks & Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </p>
+  
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  </p>
+  
+  <!-- Tools & Platforms -->
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  </p>
+  
+  <!-- Project Management & Methodologies -->
+  <h3>Project Management & Methodologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+    <img src="https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+    <img src="https://img.shields.io/badge/-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+    <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+    <img src="https://img.shields.io/badge/-TDD-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="TDD">
+    <img src="https://img.shields.io/badge/-RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful APIs">
+  </p>
 </div>
 
 ## 📊 GitHub Stats
@@ -43,72 +89,35 @@
   </a>
 </div>
 
-<!-- GitHub Activity Graph - alternative to Skyline -->
+<!-- Alternative language stats display using shields -->
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daaimah123&theme=redical&hide_border=true&area=true" width="800" alt="GitHub Activity Graph">
+  <h3>Most Used Languages</h3>
+  <a href="https://github.com/daaimah123">
+    <img src="https://img.shields.io/badge/JavaScript-50%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
-</div>
-
-<!-- Auto-generated language stats -->
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daaimah123&layout=pie&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="350" alt="Top Languages">
+  <a href="https://github.com/daaimah123">
+    <img src="https://img.shields.io/badge/TypeScript-20%25-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  </a>
+  <a href="https://github.com/daaimah123">
+    <img src="https://img.shields.io/badge/Python-15%25-blue?style=for-the-badge&logo=python" alt="Python">
+  </a>
+  <a href="https://github.com/daaimah123">
+    <img src="https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5" alt="HTML">
+  </a>
+  <a href="https://github.com/daaimah123">
+    <img src="https://img.shields.io/badge/CSS-5%25-blue?style=for-the-badge&logo=css3" alt="CSS">
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaimah123&theme=radical" alt="GitHub Streak" height="170">
 </div>
 
-<!-- Animated skill icons -->
+<!-- Colorful contribution graph -->
 <div align="center">
-  <h3>Languages & Frameworks</h3>
-  <p>
-    <!-- JavaScript -->
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60">
-    <!-- React -->
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60">
-    <!-- Node.js -->
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60">
-    <!-- Python -->
-    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60">
-    <!-- HTML5 -->
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60">
-    <!-- CSS3 -->
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60">
-    <!-- TypeScript -->
-    <img src="https://media.giphy.com/media/QWawolwdZN3ZnzGXOl/giphy.gif" width="60">
-    <!-- MongoDB -->
-    <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60">
-  </p>
-  
-  <h3>Tools & Technologies</h3>
-  <p>
-    <!-- Git -->
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-    <!-- VS Code -->
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60">
-    <!-- Terminal -->
-    <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="60">
-    <!-- Docker -->
-    <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="60">
-    <!-- AWS -->
-    <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" width="60">
-    <!-- GraphQL -->
-    <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="60">
-    <!-- Redux -->
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OGQzMzY1MzEwZmE1MzNiZmJmMjUxYzM4Nzg1ZTQ3NTg1YmNiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y1IFN5kK9VTRxvom7y/giphy.gif" width="60">
-    <!-- PostgreSQL -->
-    <img src="https://media.giphy.com/media/YonPqvMDUQM1y/giphy.gif" width="60">
-  </p>
-  
-  <h3>Coding Journey</h3>
-  <p>
-    <!-- Coding animation -->
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
-    <!-- Problem solving -->
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-  </p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daaimah123&bg_color=1a1b27&color=a9fef7&line=38bdae&point=38bdae&area=true&area_color=38bdae&hide_border=true" width="800" alt="GitHub Activity Graph">
+  </a>
 </div>
 
 ## 🚀 Featured Projects
@@ -205,12 +214,9 @@
 
 <div align="center">
   <a href="mailto:hello@daaimah.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://daaimah.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://calendly.com/daaimah123"><img src="https://img.shields.io/badge/-Schedule%20a%20call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly"></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daaimah123&style=flat-square&color=blueviolet" alt="Profile views">
+  <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </div>
 
 <!-- Animated wave -->
