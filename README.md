@@ -4,12 +4,6 @@
     <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
   </div>
 
-  <div align="center">
-    <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-    <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
-  </div>
-
 
 ## 🎵 Current Inspirations
 
@@ -159,6 +153,15 @@
     <img src="https://img.shields.io/badge/-CI/CD-00BCD4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
     <img src="https://img.shields.io/badge/-TDD-8BC34A?style=for-the-badge&logo=jest&logoColor=white" alt="TDD" />
   </p>
+</div>
+
+<!-- Connection banners -->
+## 👋🏾 Connect with Me!
+  <div align="center">
+    <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+  </div>
 </div>
 
 <!-- Random Fun Fact in Wave Footer -->
