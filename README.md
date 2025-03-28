@@ -10,6 +10,84 @@
     <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
   </div>
 
+
+## 🎵 Current Inspirations
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
+        <br>
+        <strong>Favorite Pandora Stations</strong>
+        <br>
+        <span>Jazz Classics • R&B Hits • Coding Focus</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
+        <br>
+        <strong>Currently Reading</strong>
+        <br>
+        <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
+        <br>
+        <strong>Learning Now</strong>
+        <br>
+        <span>WebAssembly • Rust • Machine Learning</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!--
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>🤖 AI-Powered Task Manager</h3>
+      <p>Smart to-do application with priority suggestions based on user patterns and schedules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      </p>
+    </td>
+    <td>
+      <h3>⛓️ Blockchain Voting System</h3>
+      <p>Secure digital voting platform ensuring transparency and immutability of votes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+        <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏥 Health Monitoring API</h3>
+      <p>Real-time health data processing and visualization platform for patients and healthcare providers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+    </td>
+    <td>
+      <h3>🌐 Multilingual Content Platform</h3>
+      <p>Platform supporting content creation and consumption across multiple languages with AI translation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+    </td>
+  </tr>
+</table>
+-->
+
 ## 📊 Tech Deets
 
 <div align="center">
@@ -83,37 +161,7 @@
   </p>
 </div>
 
-## 🎵 Current Inspirations
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
-        <br>
-        <strong>Favorite Pandora Stations</strong>
-        <br>
-        <span>Jazz Classics • R&B Hits • Coding Focus</span>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
-        <br>
-        <strong>Currently Reading</strong>
-        <br>
-        <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
-        <br>
-        <strong>Learning Now</strong>
-        <br>
-        <span>WebAssembly • Rust • Machine Learning</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Fun Facts GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/fun-facts.gif" width="100%" alt="Fun Facts">
-</div>
+<!-- Random Fun Fact in Wave Footer -->
+<a href="https://github.com/daaimah123">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=Did%20you%20know%3F%20I%20debug%20with%20rubber%20ducks!&fontSize=20&fontAlignY=80&animation=fadeIn" />
+</a>
