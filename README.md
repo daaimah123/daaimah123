@@ -83,54 +83,6 @@
   </p>
 </div>
 
-<!--
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <h3>🤖 AI-Powered Task Manager</h3>
-      <p>Smart to-do application with priority suggestions based on user patterns and schedules.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      </p>
-    </td>
-    <td>
-      <h3>⛓️ Blockchain Voting System</h3>
-      <p>Secure digital voting platform ensuring transparency and immutability of votes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-        <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js">
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🏥 Health Monitoring API</h3>
-      <p>Real-time health data processing and visualization platform for patients and healthcare providers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img  alt="Python">
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      </p>
-    </td>
-    <td>
-      <h3>🌐 Multilingual Content Platform</h3>
-      <p>Platform supporting content creation and consumption across multiple languages with AI translation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-      </p>
-    </td>
-  </tr>
-</table>
--->
-
 ## 🎵 Current Inspirations
 
 <div align="center">
@@ -161,7 +113,7 @@
   </table>
 </div>
 
-<!-- Random Fun Fact in Wave Footer with 10-second rotation -->
-<a href="https://github.com/daaimah123">
-  <img width="100%" src="fun-facts.svg" alt="Fun Facts" />
-</a>
+<!-- Fun Facts GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/fun-facts.gif" width="100%" alt="Fun Facts">
+</div>
