@@ -21,21 +21,21 @@
         <br>
         <strong>🎶 Favorite Listening Stations</strong>
         <br>
-        <span>Jazz Classics • R&B Hits • Coding Focus</span>
+        <span><a href="https://tidal.com/browse/playlist/cd604f0e-ffc7-40dc-a5ad-e7f5a12ba61d"> CompassPoint: Energy/Time Playlist </a> • <a href="https://www.pandora.com/station/play/4149682030681786046"> Native American Flute Music</a> • <a href="https://www.pandora.com/station/play/117560884900936441"> Family Reunion Beats</a></span>
       </td>
       <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>📚 Currently Reading</strong>
         <br>
-        <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
+        <span><a href="https://www.hoopladigital.com/series/glass-and-steele/4388278278"> Glass & Steele Series by C.J. Archer </a>• <a href="https://www.hoopladigital.com/series/binti/2823804653">Binit Series by Nnedi Okorafor</a> • <a href="https://www.hoopladigital.com/series/kay-scarpetta/1402474160"> Kay Scarpetta Series by Patricia Cornwell</a> </span>
       </td>
       <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
         <br>
         <strong>🧠 Learning Now</strong>
         <br>
-        <span>WebAssembly • Rust • Machine Learning</span>
+        <span>Technical Project Management • Acrylic Painting • Baking Bean Pies</span>
       </td>
     </tr>
   </table>
