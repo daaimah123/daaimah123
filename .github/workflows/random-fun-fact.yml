@@ -1,0 +1,58 @@
+name: Random Fun Fact Generator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Update README with Random Fun Fact
+        run: |
+          # Array of fun facts
+          FUN_FACTS=(
+            "I debug with rubber ducks!"
+            "I once coded for 36 hours straight during a hackathon!"
+            "My first program was a text-based adventure game!"
+            "I've contributed to over 50 open source projects!"
+            "I learned to code on a computer with only 4MB of RAM!"
+            "I can type at 120 words per minute!"
+            "I built my first website when I was 12 years old!"
+            "I've fixed bugs while dreaming about code!"
+            "I name my plants after programming languages!"
+            "I collect vintage keyboards!"
+            "I've written code in 15 different programming languages!"
+            "My favorite algorithm is quicksort!"
+            "I once refactored an entire codebase during a flight!"
+            "I mentor coding newbies in my spare time!"
+            "I've participated in 20+ hackathons!"
+            "I built an app that reminds me to drink water!"
+            "I code best after midnight!"
+            "I've written over 1 million lines of code!"
+            "I can recite the first 100 digits of Pi!"
+            "I've been coding for over a decade!"
+          )
+          
+          # Get a random fun fact
+          RANDOM_INDEX=$((RANDOM % ${#FUN_FACTS[@]}))
+          RANDOM_FACT="${FUN_FACTS[$RANDOM_INDEX]}"
+          
+          # Update the README with the new fun fact
+          sed -i "s|text=Did%20you%20know%3F%20.*&fontSize=20|text=Did%20you%20know%3F%20${RANDOM_FACT// /%20}&fontSize=20|g" README.md
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update random fun fact"
+          git push
