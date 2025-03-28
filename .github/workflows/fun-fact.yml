@@ -1,25 +1,19 @@
-name: Random Fun Fact Generator
-
+name: "Update Fun Facts"
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes (minimum GitHub allows)
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "*/10 * * * *"  # Runs every 10 minutes
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-          
-      - name: Update README with Random Fun Fact
+      - name: Update Fun Fact
         run: |
           # Array of fun facts
-          FUN_FACTS=(
+          facts=(
             "I debug with rubber ducks!"
             "I once coded for 36 hours straight during a hackathon!"
             "My first program was a text-based adventure game!"
@@ -42,17 +36,16 @@ jobs:
             "I've been coding for over a decade!"
           )
           
-          # Get a random fun fact
-          RANDOM_INDEX=$((RANDOM % ${#FUN_FACTS[@]}))
-          RANDOM_FACT="${FUN_FACTS[$RANDOM_INDEX]}"
+          # Get a random fact
+          random_fact="${facts[$RANDOM % ${#facts[@]}]}"
           
-          # Update the README with the new fun fact
-          sed -i "s|text=Did%20you%20know%3F%20.*&fontSize=20|text=Did%20you%20know%3F%20${RANDOM_FACT// /%20}&fontSize=20|g" README.md
+          # Update the README with the new fact
+          sed -i "s|text=Did%20you%20know%3F%20.*&fontSize=20|text=Did%20you%20know%3F%20${random_fact// /%20}&fontSize=20|g" README.md
           
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update random fun fact"
+          git commit -m "Update fun fact" || exit 0
           git push
