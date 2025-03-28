@@ -1,34 +1,22 @@
 <div align="center">
-  <h1>👋 Hello, I'm Daaimah Tibrey</h1>
-  <!-- Rainbow typing animation - each line in a different color -->
+  <!-- Rainbow animated text with each character a different color -->
   <div align="center">
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Full-stack+developer" alt="Typing SVG" />
-    </a>
-    <br/>
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=AI+enthusiast" alt="Typing SVG" />
-    </a>
-    <br/>
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFF00&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Open-source+contributor" alt="Typing SVG" />
-    </a>
-    <br/>
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Problem+solver" alt="Typing SVG" />
-    </a>
-    <br/>
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Always+learning" alt="Typing SVG" />
-    </a>
+    <img src="rainbow-name.svg" alt="👋🏾 Hey, I'm Daaimah" width="500" height="50">
   </div>
-</div>
 
-## 📊 Tech Deets
+  <div align="center">
+    <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+  </div>
 
 <div align="center">
   <!-- GitHub Stats Cards with visual separation -->
-  <h3>📈 GitHub Stats & Languages Frequently Used </h3>
+  <div align="center">
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=📈+GitHub+Stats+%26+Languages" alt="GitHub Stats Header" />
+    </a>
+  </div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://github.com/daaimah123">
       <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
@@ -39,17 +27,20 @@
   </div>
   
   <!-- GitHub Trophies with visual separation -->
-  <h3>🏆 GitHub Achievements</h3>
+  <div align="center">
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFB347&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=🏆+GitHub+Achievements" alt="GitHub Achievements Header" />
+    </a>
+  </div>
   <div style="margin-bottom: 30px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
     </a>
   </div>
   
-  <!-- Skills section with clear header -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <!-- Skills section with NO HEADERS -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
     <div style="width: 30%;">
-      <h3 align="center">Programming Languages</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/-TypeScript-4FC3F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -60,7 +51,6 @@
       </div>
     </div>
     <div style="width: 30%;">
-      <h3 align="center">Frameworks</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-React-80DEEA?style=for-the-badge&logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/-Redux-B388FF?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
@@ -72,7 +62,6 @@
       </div>
     </div>
     <div style="width: 30%;">
-      <h3 align="center">Databases</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/-PostgreSQL-64B5F6?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -81,7 +70,6 @@
       </div>
     </div>
     <div style="width: 30%;">
-      <h3 align="center">Tools</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Git-FF5252?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/-Docker-42A5F5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -92,17 +80,16 @@
       </div>
     </div>
     <div style="width: 30%;">
-      <h3 align="center">Platforms</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <img src="https://img.shields.io/badge/-Heroku-AB47BC?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
         <img src="https://img.shields.io/badge/-Vercel-EC407A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+        <img src="https://img.shields.  alt="Vercel">
         <img src="https://img.shields.io/badge/-Figma-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/-NPM-FF5722?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
       </div>
     </div>
     <div style="width: 30%;">
-      <h3 align="center">Methodologies</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Agile-26C6DA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
         <img src="https://img.shields.io/badge/-Scrum-29B6F6?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
@@ -189,13 +176,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </div>
 
 <!-- Random Fun Fact in Wave Footer -->
