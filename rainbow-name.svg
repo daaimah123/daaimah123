@@ -26,8 +26,5 @@
     <tspan class="char" style="fill: #9400D3; --i: 14;">m</tspan>
     <tspan class="char" style="fill: #FF0000; --i: 15;">a</tspan>
     <tspan class="char" style="fill: #FF7F00; --i: 16;">h</tspan>
-<!--     <tspan class="char" style="fill: #FFFF00; --i: 17;">m</tspan>
-    <tspan class="char" style="fill: #00FF00; --i: 18;">a</tspan>
-    <tspan class="char" style="fill: #0000FF; --i: 19;">h</tspan> -->
   </text>
 </svg>
