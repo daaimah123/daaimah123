@@ -39,8 +39,11 @@ jobs:
           # Get a random fact
           random_fact="${facts[$RANDOM % ${#facts[@]}]}"
           
+          # URL encode the fact (basic version)
+          encoded_fact=$(echo "$random_fact" | sed 's/ /%20/g' | sed 's/!/%21/g' | sed "s/'/%27/g" | sed 's/(/%28/g' | sed 's/)/%29/g' | sed 's/+/%2B/g' | sed 's/,/%2C/g' | sed 's/-/%2D/g' | sed 's/\./%2E/g' | sed 's/\//%2F/g')
+          
           # Update the README with the new fact
-          sed -i "s|text=Did%20you%20know%3F%20.*&fontSize=20|text=Did%20you%20know%3F%20${random_fact// /%20}&fontSize=20|g" README.md
+          sed -i "s|text=Did%20you%20know%3F%20.*&fontSize=20|text=Did%20you%20know%3F%20${encoded_fact}&fontSize=20|g" README.md
           
       - name: Commit and Push
         run: |
