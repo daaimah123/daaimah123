@@ -19,21 +19,21 @@
       <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
-        <strong>Favorite Pandora Stations</strong>
+        <strong>🎶 Favorite Listening Stations</strong>
         <br>
         <span>Jazz Classics • R&B Hits • Coding Focus</span>
       </td>
       <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
-        <strong>Currently Reading</strong>
+        <strong>📚 Currently Reading</strong>
         <br>
         <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
       </td>
       <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
         <br>
-        <strong>Learning Now</strong>
+        <strong>🧠 Learning Now</strong>
         <br>
         <span>WebAssembly • Rust • Machine Learning</span>
       </td>
