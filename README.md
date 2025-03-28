@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Rainbow animated text with each character a different color -->
   <div align="center">
-    <img src="rainbow-name.svg" alt="👋🏾 I'm Daaimah" width="500" height="50">
+    <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
   </div>
 
   <div align="center">
@@ -10,13 +10,10 @@
     <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
   </div>
 
+## 📊 Tech Deets
+
 <div align="center">
   <!-- GitHub Stats Cards with visual separation -->
-  <div align="center">
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=📈+GitHub+Stats+%26+Languages" alt="GitHub Stats Header" />
-    </a>
-  </div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://github.com/daaimah123">
       <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
@@ -25,18 +22,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
     </a>
   </div>
+  <br>
   
   <!-- GitHub Trophies with visual separation -->
-  <div align="center">
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFB347&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=🏆+GitHub+Achievements" alt="GitHub Achievements Header" />
-    </a>
-  </div>
   <div style="margin-bottom: 30px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
     </a>
   </div>
+  <br>
   
   <!-- Skills section with NO HEADERS -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
@@ -84,7 +78,6 @@
         <img src="https://img.shields.io/badge/-GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <img src="https://img.shields.io/badge/-Heroku-AB47BC?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
         <img src="https://img.shields.io/badge/-Vercel-EC407A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-        <img src="https://img.shields.  alt="Vercel">
         <img src="https://img.shields.io/badge/-Figma-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/-NPM-FF5722?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
       </div>
