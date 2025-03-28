@@ -1,4 +1,4 @@
-name: GitHub 3D Contribution Graph
+ame: GitHub 3D Contribution Graph
 
 on:
   schedule:
@@ -19,11 +19,11 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.daaimah-token }}
-          USERNAME: ${{ github.daaimah123 }}
+          USERNAME: daaimah123
 
       - name: Commit and Push
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add -A .
           git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
