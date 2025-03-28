@@ -14,23 +14,23 @@
 ## 🎵 Current Inspirations
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="20" style="border-collapse: collapse;">
     <tr>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
         <span>Jazz Classics • R&B Hits • Coding Focus</span>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>Currently Reading</strong>
         <br>
         <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
         <br>
         <strong>Learning Now</strong>
