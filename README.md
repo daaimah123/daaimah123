@@ -84,41 +84,29 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Details
 
-<!-- GitHub Trophy -->
 <div align="center">
+  <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies">
   </a>
-</div>
-
-<!-- Alternative language stats display using shields -->
-<div align="center">
-  <h3>Most Used Languages</h3>
-  <a href="https://github.com/daaimah123">
-    <img src="https://img.shields.io/badge/JavaScript-50%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
-  </a>
-  <a href="https://github.com/daaimah123">
-    <img src="https://img.shields.io/badge/TypeScript-20%25-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
-  </a>
-  <a href="https://github.com/daaimah123">
-    <img src="https://img.shields.io/badge/Python-15%25-blue?style=for-the-badge&logo=python" alt="Python">
-  </a>
-  <a href="https://github.com/daaimah123">
-    <img src="https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5" alt="HTML">
-  </a>
-  <a href="https://github.com/daaimah123">
-    <img src="https://img.shields.io/badge/CSS-5%25-blue?style=for-the-badge&logo=css3" alt="CSS">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-</div>
-
-<!-- Alternative to contribution graph - Isometric calendar -->
-<div align="center">
+  
+  <br><br>
+  
+  <!-- Combined GitHub Stats in a single row -->
+  <div>
+    <a href="https://github.com/daaimah123">
+      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
+    </a>
+    <a href="https://github.com/daaimah123">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170">
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- GitHub Profile Summary Card -->
   <a href="https://github.com/daaimah123">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daaimah123&theme=radical" alt="GitHub Contribution Calendar">
   </a>
@@ -169,22 +157,29 @@
   </tr>
 </table>
 
-## 🌈 Contributions
+## ✨ Fun Facts About Me
 
-<!-- Alternative to snake animation - 3D Contribution Calendar -->
 <div align="center">
-  <a href="https://github.com/daaimah123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaimah123&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats">
-  </a>
-</div>
-
-<!-- Metrics visualization -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics.svg">
-    <img alt="Metrics" src="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics.svg">
-  </picture>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Fun Facts">
+        <h3>Did You Know?</h3>
+      </td>
+      <td width="50%">
+        <ul>
+          <li>🌱 I started coding by building a plant care app because I kept forgetting to water my plants</li>
+          <li>🎓 I have a background in psychology which helps me build more intuitive user experiences</li>
+          <li>🎮 I once built a game that teaches coding concepts to kids using dance moves</li>
+          <li>🌍 I've contributed code to projects that are used in 20+ countries</li>
+          <li>📚 I maintain a tech book club that focuses on underrepresented authors in tech</li>
+          <li>🧩 I solve at least one algorithm puzzle every morning before coffee</li>
+          <li>🎨 I create digital art using code and have had pieces displayed in local galleries</li>
+          <li>🔍 I once found and fixed a critical bug while on vacation because I couldn't stop thinking about it</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎵 Current Inspirations
