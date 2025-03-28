@@ -14,26 +14,9 @@ jobs:
         run: |
           # Array of fun facts
           facts=(
-            "I debug with rubber ducks!"
-            "I once coded for 36 hours straight during a hackathon!"
-            "My first program was a text-based adventure game!"
-            "I've contributed to over 50 open source projects!"
-            "I learned to code on a computer with only 4MB of RAM!"
-            "I can type at 120 words per minute!"
-            "I built my first website when I was 12 years old!"
-            "I've fixed bugs while dreaming about code!"
-            "I name my plants after programming languages!"
-            "I collect vintage keyboards!"
-            "I've written code in 15 different programming languages!"
-            "My favorite algorithm is quicksort!"
-            "I once refactored an entire codebase during a flight!"
-            "I mentor coding newbies in my spare time!"
-            "I've participated in 20+ hackathons!"
-            "I built an app that reminds me to drink water!"
-            "I code best after midnight!"
-            "I've written over 1 million lines of code!"
-            "I can recite the first 100 digits of Pi!"
-            "I've been coding for over a decade!"
+            "500 kiddo naptimes later, I'm a full-stack developer!"
+            "My experience as a mama taught me patience that's perfect for debugging complex issues!"
+            "I've mastered the art of returning to complex code after multiple interruptions!"
           )
           
           # Get a random fact
