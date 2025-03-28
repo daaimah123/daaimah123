@@ -25,9 +25,20 @@
   </div>
 </div>
 
-## 💻 Skills & Tech Stack
+## 📊 Here's The Tech Deets You Came For
+
+</div>
 
 <div align="center">
+  <div>
+    <a href="https://github.com/daaimah123">
+      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
+    </a>
+    <a href="https://github.com/daaimah123">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
+    </a>
+  </div>
+  
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" width="33%">
@@ -97,29 +108,12 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 📊 GitHub Details
-
-<div align="center">
-  <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
   </a>
-  
-  <br><br>
-  
-  <!-- Combined GitHub Stats in a single row -->
-  <div>
-    <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
-    </a>
-    <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
-    </a>
-  </div>
 </div>
 
+<!--
 ## 🚀 Featured Projects
 
 <table>
@@ -164,6 +158,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ## 📫 Let's Connect!
 
@@ -173,10 +168,11 @@
   <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </div>
 
-<!-- Banner image as divider between professional and personal sections -->
+<!-- Banner image as divider between professional and personal sections
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px; height: auto; max-height: 200px; object-fit: cover;">
 </div>
+-->
 
 ## ✨ Fun Facts About Me
 
