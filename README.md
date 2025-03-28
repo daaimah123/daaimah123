@@ -4,10 +4,16 @@
   
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
-  <!-- Rainbow typing text effect with progressive colors -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F70000,FF8C00,FFD700,00FF00,00BFFF,0000FF,A020F0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-stack+developer;AI+enthusiast;Open-source+contributor;Problem+solver;Always+learning" alt="Typing SVG" />
-  </a>
+  <!-- Rainbow typing animation - each line in a different color -->
+  <p align="center">
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-stack+developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=435&lines=AI+enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFF00&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Open-source+contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Problem+solver" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Always+learning" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
 ## 💻 Skills & Tech Stack
@@ -189,14 +195,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/5QRnQnbD9OsAFVgf2j/giphy.gif" width="200" alt="Music listening">
+        <img src="https://media.giphy.com/media/3ohhwMYwgQnuUfLOGQ/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
         <span>Jazz Classics • R&B Hits • Coding Focus</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="200" alt="Books">
+        <img src="https://media.giphy.com/media/l0HlOvJ7mahM8rGMg/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>Currently Reading</strong>
         <br>
