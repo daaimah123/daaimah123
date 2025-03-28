@@ -36,33 +36,33 @@
       <td valign="top" width="33%">
         <h3 align="center">Programming</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+          <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/-TypeScript-4FC3F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/-Python-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/-HTML5-7FDBFF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/-CSS3-FF85A2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/-SQL-9575CD?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Frameworks</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-          <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-          <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-          <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+          <img src="https://img.shields.io/badge/-React-80DEEA?style=for-the-badge&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/-Redux-B388FF?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+          <img src="https://img.shields.io/badge/-Node.js-AEEA00?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/-Express-FFCA28?style=for-the-badge&logo=express&logoColor=black" alt="Express">
+          <img src="https://img.shields.io/badge/-Django-FF7043?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+          <img src="https://img.shields.io/badge/-GraphQL-F48FB1?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+          <img src="https://img.shields.io/badge/-Jest-66BB6A?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Databases</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-          <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+          <img src="https://img.shields.io/badge/-MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/-PostgreSQL-64B5F6?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+          <img src="https://img.shields.io/badge/-MySQL-FFA726?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/-SQLite-FF8A65?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
         </div>
       </td>
     </tr>
@@ -70,32 +70,32 @@
       <td valign="top" width="33%">
         <h3 align="center">Tools</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-          <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-          <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-          <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-          <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-          <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+          <img src="https://img.shields.io/badge/-Git-FF5252?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+          <img src="https://img.shields.io/badge/-Docker-42A5F5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+          <img src="https://img.shields.io/badge/-AWS-FFD54F?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS">
+          <img src="https://img.shields.io/badge/-VS_Code-00B0FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+          <img src="https://img.shields.io/badge/-Jira-7E57C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+          <img src="https://img.shields.io/badge/-Postman-FF7043?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Platforms</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-          <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-          <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-          <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+          <img src="https://img.shields.io/badge/-GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          <img src="https://img.shields.io/badge/-Heroku-AB47BC?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+          <img src="https://img.shields.io/badge/-Vercel-EC407A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+          <img src="https://img.shields.io/badge/-Figma-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+          <img src="https://img.shields.io/badge/-NPM-FF5722?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Methodologies</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/-Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
-          <img src="https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
-          <img src="https://img.shields.io/badge/-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
-          <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
-          <img src="https://img.shields.io/badge/-TDD-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="TDD">
+          <img src="https://img.shields.io/badge/-Agile-26C6DA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+          <img src="https://img.shields.io/badge/-Scrum-29B6F6?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+          <img src="https://img.shields.io/badge/-Kanban-26A69A?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+          <img src="https://img.shields.io/badge/-CI/CD-00BCD4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+          <img src="https://img.shields.io/badge/-TDD-8BC34A?style=for-the-badge&logo=jest&logoColor=white" alt="TDD">
         </div>
       </td>
     </tr>
@@ -107,7 +107,7 @@
 <div align="center">
   <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=nord&row=1&column=6&margin-w=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
   </a>
   
   <br><br>
@@ -115,20 +115,12 @@
   <!-- Combined GitHub Stats in a single row -->
   <div>
     <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
     </a>
     <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
     </a>
   </div>
-  
-  <br>
-  
-  <!-- 3D Contribution Graph - Night Rainbow Version -->
-  <a href="https://github.com/daaimah123">
-    <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-  </a>
-  <p><i>Note: To generate this 3D contribution graph, you'll need to set up a GitHub Action. Instructions below.</i></p>
 </div>
 
 ## 🚀 Featured Projects
@@ -178,27 +170,23 @@
 
 ## ✨ Fun Facts About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Fun Facts">
-        <h3>Did You Know?</h3>
-      </td>
-      <td width="50%">
-        <ul>
-          <li>🌱 I started coding by building a plant care app because I kept forgetting to water my plants</li>
-          <li>🎓 I have a background in psychology which helps me build more intuitive user experiences</li>
-          <li>🎮 I once built a game that teaches coding concepts to kids using dance moves</li>
-          <li>🌍 I've contributed code to projects that are used in 20+ countries</li>
-          <li>📚 I maintain a tech book club that focuses on underrepresented authors in tech</li>
-          <li>🧩 I solve at least one algorithm puzzle every morning before coffee</li>
-          <li>🎨 I create digital art using code and have had pieces displayed in local galleries</li>
-          <li>🔍 I once found and fixed a critical bug while on vacation because I couldn't stop thinking about it</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background: linear-gradient(to right, #ff9a9e, #fad0c4); padding: 20px; border-radius: 10px;">
+  <h3 style="color: #6a0572;">Did You Know?</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <div style="background-color: rgba(255, 255, 255, 0.8); padding: 15px; border-radius: 8px; width: 45%; text-align: left;">
+      <p>🌱 I started coding by building a plant care app because I kept forgetting to water my plants</p>
+      <p>🎓 I have a background in psychology which helps me build more intuitive user experiences</p>
+      <p>🎮 I once built a game that teaches coding concepts to kids using dance moves</p>
+      <p>🌍 I've contributed code to projects that are used in 20+ countries</p>
+    </div>
+    <div style="background-color: rgba(255, 255, 255, 0.8); padding: 15px; border-radius: 8px; width: 45%; text-align: left;">
+      <p>📚 I maintain a tech book club that focuses on underrepresented authors in tech</p>
+      <p>🧩 I solve at least one algorithm puzzle every morning before coffee</p>
+      <p>🎨 I create digital art using code and have had pieces displayed in local galleries</p>
+      <p>🔍 I once found and fixed a critical bug while on vacation because I couldn't stop thinking about it</p>
+    </div>
+  </div>
 </div>
 
 ## 🎵 Current Inspirations
@@ -207,14 +195,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/sgswHaZw5yklq/giphy.gif" width="200" alt="Music listening cartoon">
+        <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
         <span>Jazz Classics • R&B Hits • Coding Focus</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/26BRHKYpf3S1CaFl6/giphy.gif" width="200" alt="Book reading cartoon">
+        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>Currently Reading</strong>
         <br>
@@ -240,4 +228,4 @@
 </div>
 
 <!-- Animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer"/>
