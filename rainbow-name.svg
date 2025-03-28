@@ -1,0 +1,33 @@
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes wave {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+    .char {
+      animation: wave 2s ease-in-out infinite;
+      animation-delay: calc(0.1s * var(--i));
+    }
+  </style>
+  <text x="10" y="35" font-family="'Fira Code', monospace" font-weight="600" font-size="30">
+    <tspan class="char" style="fill: #FF0000; --i: 1;">👋</tspan>
+    <tspan class="char" style="fill: #FF7F00; --i: 2;">🏾</tspan>
+    <tspan class="char" style="fill: #FFFF00; --i: 3;"> </tspan>
+    <tspan class="char" style="fill: #00FF00; --i: 4;">H</tspan>
+    <tspan class="char" style="fill: #0000FF; --i: 5;">e</tspan>
+    <tspan class="char" style="fill: #4B0082; --i: 6;">y</tspan>
+    <tspan class="char" style="fill: #9400D3; --i: 7;">,</tspan>
+    <tspan class="char" style="fill: #FF0000; --i: 8;"> </tspan>
+    <tspan class="char" style="fill: #FF7F00; --i: 9;">I</tspan>
+    <tspan class="char" style="fill: #FFFF00; --i: 10;">'</tspan>
+    <tspan class="char" style="fill: #00FF00; --i: 11;">m</tspan>
+    <tspan class="char" style="fill: #0000FF; --i: 12;"> </tspan>
+    <tspan class="char" style="fill: #4B0082; --i: 13;">D</tspan>
+    <tspan class="char" style="fill: #9400D3; --i: 14;">a</tspan>
+    <tspan class="char" style="fill: #FF0000; --i: 15;">a</tspan>
+    <tspan class="char" style="fill: #FF7F00; --i: 16;">i</tspan>
+    <tspan class="char" style="fill: #FFFF00; --i: 17;">m</tspan>
+    <tspan class="char" style="fill: #00FF00; --i: 18;">a</tspan>
+    <tspan class="char" style="fill: #0000FF; --i: 19;">h</tspan>
+  </text>
+</svg>
