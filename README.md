@@ -4,27 +4,27 @@
     <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
   </div>
 
-
 ## 🎵 Current Inspirations
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="20" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: none;">
+  <!-- Using HTML attributes and inline CSS to completely remove borders -->
+  <table cellspacing="0" cellpadding="0" border="0" style="border-collapse: separate; border-spacing: 15px; border: 0; box-shadow: none;">
+    <tr style="border: 0; background: none;">
+      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
         <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
         <strong>🎶 Favorite Listening Stations</strong>
         <br>
         <span><a href="https://tidal.com/browse/playlist/cd604f0e-ffc7-40dc-a5ad-e7f5a12ba61d"> CompassPoint: Energy/Time Playlist </a> • <a href="https://www.pandora.com/station/play/4149682030681786046"> Native American Flute Music</a> • <a href="https://www.pandora.com/station/play/117560884900936441"> Family Reunion Beats</a></span>
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
         <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>📚 Currently Reading</strong>
         <br>
         <span><a href="https://www.hoopladigital.com/series/glass-and-steele/4388278278"> Glass & Steele Series by C.J. Archer </a>• <a href="https://www.hoopladigital.com/series/binti/2823804653">Binit Series by Nnedi Okorafor</a> • <a href="https://www.hoopladigital.com/series/kay-scarpetta/1402474160"> Kay Scarpetta Series by Patricia Cornwell</a> </span>
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
         <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
         <br>
         <strong>🧠 Learning Now</strong>
@@ -166,5 +166,5 @@
 
 <!-- Random Fun Fact in Wave Footer -->
 <a href="https://github.com/daaimah123">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=Did%20you%20know%3F%20I%20debug%20with%20rubber%20ducks!&fontSize=20&fontAlignY=80&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=CURRENT_FUN_FACT&fontSize=20&fontAlignY=80&animation=fadeIn" />
 </a>
