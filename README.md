@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Full-width banner image -->
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px;">
+  <!-- Reduced height banner image -->
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px; height: auto; max-height: 300px; object-fit: cover;">
   
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
-  <!-- Fixed Rainbow typing text effect -->
+  <!-- Rainbow typing text effect with progressive colors -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Full-stack+developer;AI+enthusiast;Open-source+contributor;Problem+solver;Always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F70000,FF8C00,FFD700,00FF00,00BFFF,0000FF,A020F0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-stack+developer;AI+enthusiast;Open-source+contributor;Problem+solver;Always+learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -89,7 +89,7 @@
 <div align="center">
   <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=nord&row=1&column=6&margin-w=15" alt="GitHub Trophies">
   </a>
   
   <br><br>
@@ -97,19 +97,20 @@
   <!-- Combined GitHub Stats in a single row -->
   <div>
     <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
+      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
     </a>
     <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
     </a>
   </div>
   
   <br>
   
-  <!-- GitHub Profile Summary Card -->
+  <!-- 3D Contribution Graph - Night Rainbow Version -->
   <a href="https://github.com/daaimah123">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daaimah123&theme=radical" alt="GitHub Contribution Calendar">
+    <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
   </a>
+  <p><i>Note: To generate this 3D contribution graph, you'll need to set up a GitHub Action. Instructions below.</i></p>
 </div>
 
 ## 🚀 Featured Projects
@@ -188,7 +189,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="200" alt="BIPOC listening to music">
+        <img src="https://media.giphy.com/media/5QRnQnbD9OsAFVgf2j/giphy.gif" width="200" alt="Music listening">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
@@ -202,7 +203,7 @@
         <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKT6gL5B7Lzq9EY/giphy.gif" width="200" alt="Multitasking">
+        <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
         <br>
         <strong>Learning Now</strong>
         <br>
@@ -221,4 +222,4 @@
 </div>
 
 <!-- Animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=120&section=footer"/>
