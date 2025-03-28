@@ -11,20 +11,18 @@
   </style>
   <text x="10" y="35" font-family="'Fira Code', monospace" font-weight="600" font-size="30">
     <tspan class="char" style="fill: #FF0000; --i: 1;">👋</tspan>
-    <tspan class="char" style="fill: #FF7F00; --i: 2;">H</tspan>
-    <tspan class="char" style="fill: #FFFF00; --i: 3;">i</tspan>
-    <tspan class="char" style="fill: #00FF00; --i: 4;">,</tspan>
-    <tspan class="char" style="fill: #0000FF; --i: 5;"> </tspan>
-    <tspan class="char" style="fill: #4B0082; --i: 6;">I</tspan>
-    <tspan class="char" style="fill: #9400D3; --i: 7;">'</tspan>
-    <tspan class="char" style="fill: #FF0000; --i: 8;">m</tspan>
+    <tspan class="char" style="fill: #FF7F00; --i: 2;">D</tspan>
+    <tspan class="char" style="fill: #FFFF00; --i: 3;">a</tspan>
+    <tspan class="char" style="fill: #00FF00; --i: 4;">a</tspan>
+    <tspan class="char" style="fill: #0000FF; --i: 5;">i</tspan>
+    <tspan class="char" style="fill: #4B0082; --i: 6;">m</tspan>
+    <tspan class="char" style="fill: #9400D3; --i: 7;">a</tspan>
+    <tspan class="char" style="fill: #FF0000; --i: 8;">h</tspan>
     <tspan class="char" style="fill: #FF7F00; --i: 9;"> </tspan>
-    <tspan class="char" style="fill: #FFFF00; --i: 10;">D</tspan>
-    <tspan class="char" style="fill: #00FF00; --i: 11;">a</tspan>
-    <tspan class="char" style="fill: #0000FF; --i: 12;">a</tspan>
-    <tspan class="char" style="fill: #4B0082; --i: 13;">i</tspan>
-    <tspan class="char" style="fill: #9400D3; --i: 14;">m</tspan>
-    <tspan class="char" style="fill: #FF0000; --i: 15;">a</tspan>
-    <tspan class="char" style="fill: #FF7F00; --i: 16;">h</tspan>
+    <tspan class="char" style="fill: #FFFF00; --i: 10;">H</tspan>
+    <tspan class="char" style="fill: #00FF00; --i: 11;">e</tspan>
+    <tspan class="char" style="fill: #0000FF; --i: 12;">r</tspan>
+    <tspan class="char" style="fill: #4B0082; --i: 13;">e</tspan>
+    <tspan class="char" style="fill: #9400D3; --i: 14;">!</tspan>
   </text>
 </svg>
