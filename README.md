@@ -159,4 +159,59 @@
 ## 🌈 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/
+  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
+
+<!-- Metrics visualization -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics.svg">
+    <img alt="Metrics" src="https://raw.githubusercontent.com/daaimah123/daaimah123/metrics-renders/github-metrics.svg">
+  </picture>
+</div>
+
+## 🎵 Current Inspirations
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="200" alt="Music">
+        <br>
+        <strong>Favorite Pandora Stations</strong>
+        <br>
+        <span>Jazz Classics • R&B Hits • Coding Focus</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="200" alt="Books">
+        <br>
+        <strong>Currently Reading</strong>
+        <br>
+        <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Learning">
+        <br>
+        <strong>Learning Now</strong>
+        <br>
+        <span>WebAssembly • Rust • Machine Learning</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="mailto:hello@daaimah.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://daaimah.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://calendly.com/daaimah123"><img src="https://img.shields.io/badge/-Schedule%20a%20call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly"></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daaimah123&style=flat-square&color=blueviolet" alt="Profile views">
+</div>
+
+<!-- Animated wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
