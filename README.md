@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Reduced height banner image -->
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px; height: auto; max-height: 300px; object-fit: cover;">
-  
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
   <!-- Rainbow typing animation - each line in a different color -->
@@ -168,6 +165,19 @@
   </tr>
 </table>
 
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+</div>
+
+<!-- Banner image as divider between professional and personal sections -->
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Brown%20girl%20with%20afro%20on%20laptop%20in%20bean%20bag%20chair%20on%20floor%20surrounded%20by%20plants%20and%20a%20side%20table-Cv5O2JCpKz2fDmpGxEniVCZrtU4Wis.png" alt="Developer coding" width="100%" style="max-width: 1200px; height: auto; max-height: 200px; object-fit: cover;">
+</div>
+
 ## ✨ Fun Facts About Me
 
 <div align="center" style="background: linear-gradient(to right, #ff9a9e, #fad0c4); padding: 20px; border-radius: 10px;">
@@ -217,14 +227,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </div>
 
 <!-- Animated wave -->
