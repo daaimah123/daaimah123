@@ -5,15 +5,27 @@
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
   <!-- Rainbow typing animation - each line in a different color -->
-  <p align="center">
+  <div align="center">
     <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-stack+developer" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=435&lines=AI+enthusiast" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFF00&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Open-source+contributor" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Problem+solver" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Always+learning" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Full-stack+developer" alt="Typing SVG" />
     </a>
-  </p>
+    <br/>
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=AI+enthusiast" alt="Typing SVG" />
+    </a>
+    <br/>
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFF00&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Open-source+contributor" alt="Typing SVG" />
+    </a>
+    <br/>
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Problem+solver" alt="Typing SVG" />
+    </a>
+    <br/>
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&height=30&lines=Always+learning" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 ## 💻 Skills & Tech Stack
@@ -195,14 +207,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3ohhwMYwgQnuUfLOGQ/giphy.gif" width="200" alt="Music listening cartoon">
+        <img src="https://media.giphy.com/media/sgswHaZw5yklq/giphy.gif" width="200" alt="Music listening cartoon">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
         <span>Jazz Classics • R&B Hits • Coding Focus</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/l0HlOvJ7mahM8rGMg/giphy.gif" width="200" alt="Book reading cartoon">
+        <img src="https://media.giphy.com/media/26BRHKYpf3S1CaFl6/giphy.gif" width="200" alt="Book reading cartoon">
         <br>
         <strong>Currently Reading</strong>
         <br>
