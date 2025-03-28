@@ -4,85 +4,89 @@
   
   <h1>👋 Hello, I'm Daaimah Tibrey</h1>
   
-  <!-- Rainbow typing text effect using SVG - this renders as an animated image -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=300&color=F70000,FF8C00,FFD700,00FF00,00BFFF,0000FF,A020F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hello+there!+I'm+a+passionate+developer;Building+innovative+solutions;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
-</div>
-
-<!-- Decorative side elements -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/assets/left-decoration.gif" width="150" align="left" alt="">
-  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/main/assets/right-decoration.gif" width="150" align="right" alt="">
+  <!-- Fixed Rainbow typing text effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Full-stack+developer;AI+enthusiast;Open-source+contributor;Problem+solver;Always+learning" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 💻 Skills & Tech Stack
 
 <div align="center">
-  <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  </p>
-  
-  <!-- Frameworks & Libraries -->
-  <h3>Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-    <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  </p>
-  
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  </p>
-  
-  <!-- Tools & Platforms -->
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  </p>
-  
-  <!-- Project Management & Methodologies -->
-  <h3>Project Management & Methodologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
-    <img src="https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
-    <img src="https://img.shields.io/badge/-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
-    <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
-    <img src="https://img.shields.io/badge/-TDD-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="TDD">
-    <img src="https://img.shields.io/badge/-RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful APIs">
-  </p>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Programming</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Frameworks</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+          <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+          <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+          <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Databases</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+          <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+          <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+          <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+          <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+          <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Platforms</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+          <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+          <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+          <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Methodologies</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+          <img src="https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+          <img src="https://img.shields.io/badge/-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+          <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+          <img src="https://img.shields.io/badge/-TDD-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="TDD">
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Trophy - alternative to Skyline -->
+<!-- GitHub Trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies">
@@ -113,10 +117,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
 </div>
 
-<!-- Colorful contribution graph -->
+<!-- Alternative to contribution graph - Isometric calendar -->
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daaimah123&bg_color=1a1b27&color=a9fef7&line=38bdae&point=38bdae&area=true&area_color=38bdae&hide_border=true" width="800" alt="GitHub Activity Graph">
+  <a href="https://github.com/daaimah123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daaimah123&theme=radical" alt="GitHub Contribution Calendar">
   </a>
 </div>
 
@@ -167,8 +171,11 @@
 
 ## 🌈 Contributions
 
+<!-- Alternative to snake animation - 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daaimah123/daaimah123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <a href="https://github.com/daaimah123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaimah123&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats">
+  </a>
 </div>
 
 <!-- Metrics visualization -->
@@ -186,7 +193,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="200" alt="Music">
+        <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="200" alt="BIPOC listening to music">
         <br>
         <strong>Favorite Pandora Stations</strong>
         <br>
@@ -200,7 +207,7 @@
         <span>Clean Code • Algorithms to Live By • The Pragmatic Programmer</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Learning">
+        <img src="https://media.giphy.com/media/3o7TKT6gL5B7Lzq9EY/giphy.gif" width="200" alt="Multitasking">
         <br>
         <strong>Learning Now</strong>
         <br>
@@ -213,7 +220,6 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:hello@daaimah.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/daaimah123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://daaimah123.github.io/Daaimah_Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://drive.google.com/file/d/1Y8LFlJF3UZITXN8j6oHvGooKVRy4OTxw/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
