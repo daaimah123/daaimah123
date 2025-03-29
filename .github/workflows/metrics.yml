@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: DTibrey
+          user: daaimah123
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
@@ -53,5 +53,5 @@ jobs:
           plugin_isocalendar_duration: half-year
           
           # Output to dedicated branch for dark/light mode support
-          committer_branch: metrics-renders
+          committer_branch: main
           output_action: commit
