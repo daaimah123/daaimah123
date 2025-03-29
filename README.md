@@ -87,19 +87,13 @@
 <div align="center">
   <!-- GitHub Stats Cards with visual separation -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
-    </a>
-    <a href="https://github.com/daaimah123">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
   </div>
   
   <!-- GitHub Trophies with visual separation -->
   <div style="margin-bottom: 30px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
   </div>
 </div>
 
