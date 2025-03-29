@@ -7,8 +7,12 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Add this line for explicit permissions
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch all history for better compatibility
       
       - name: Update Fun Fact
         run: |
@@ -17,6 +21,10 @@ jobs:
             "500 kiddo naptimes later, I'm a full-stack developer!"
             "My experience as a mama taught me patience that's perfect for debugging complex issues!"
             "I've mastered the art of returning to complex code after multiple interruptions!"
+            "I've debugged code one-handed while holding a sleeping baby with the other!"
+            "I've participated in Zoom interviews with cartoon theme songs playing in the background!"
+            "I can write clean, efficient code in 20-minute increments between caregiving tasks!"
+            "I've mastered the art of context-switching: from code reviews to doctor appointments and back again!"
           )
           
           # Get a random fact
@@ -25,8 +33,17 @@ jobs:
           # URL encode the fact (basic version)
           encoded_fact=$(echo "Did you know? $random_fact" | sed 's/ /%20/g' | sed 's/!/%21/g' | sed "s/'/%27/g" | sed 's/(/%28/g' | sed 's/)/%29/g' | sed 's/+/%2B/g' | sed 's/,/%2C/g' | sed 's/-/%2D/g' | sed 's/\./%2E/g' | sed 's/\//%2F/g')
           
-          # Update the README with the new fact
-          sed -i "s|text=CURRENT_FUN_FACT|text=${encoded_fact}|g" README.md
+          # Check if the placeholder exists
+          if grep -q "text=CURRENT_FUN_FACT" README.md; then
+            # Update the README with the new fact
+            sed -i "s|text=CURRENT_FUN_FACT|text=${encoded_fact}|g" README.md
+          elif grep -q "text=Did%20you%20know%3F" README.md; then
+            # If placeholder doesn't exist but there's already a fun fact, replace it
+            sed -i "s|text=Did%20you%20know%3F%20[^&]*|text=${encoded_fact}|g" README.md
+          else
+            echo "Could not find placeholder or existing fun fact in README.md"
+            exit 1
+          fi
           
       - name: Commit and Push
         run: |
