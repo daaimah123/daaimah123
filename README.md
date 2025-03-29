@@ -4,7 +4,7 @@
     <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
   </div>
 
-## 🎵 Current Inspirations
+## 🦄 Current Inspirations
 
 <div align="center">
   <!-- Using HTML attributes and inline CSS to completely remove borders -->
@@ -35,51 +35,85 @@
   </table>
 </div>
 
-<!--
-## 🚀 Featured Projects
+
+## 👀 Peek at Some of My Work
 
 <table>
   <tr>
     <td>
-      <h3>🤖 AI-Powered Task Manager</h3>
-      <p>Smart to-do application with priority suggestions based on user patterns and schedules.</p>
+      <h3>🚀 <a href="https://github.com/daaimah123/skills_matrix">Skills Matrix</a></h3>
+      <p>Career therapy for confused techies! Map what you're good at vs. what you enjoy, find your superpowers, and stop having existential crises during standup. Because "follow your passion" is terrible advice!</p>
       <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
       </p>
     </td>
     <td>
-      <h3>⛓️ Blockchain Voting System</h3>
-      <p>Secure digital voting platform ensuring transparency and immutability of votes.</p>
+      <h3>📝 <a href="https://github.com/daaimah123/Daaimah_Portfolio">Portfolio App</a></h3>
+      <p>Quick peek into my technological background and skillset</p>
       <p>
-        <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-        <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🏥 Health Monitoring API</h3>
-      <p>Real-time health data processing and visualization platform for patients and healthcare providers.</p>
+      <h3>👩🏽‍💻 <a href="https://techtonica.org/">Techtonica Website</a></h3>
+      <p>Maintained and enhanced website functionality since August 2023, implementing new features while ensuring stability through regular updates and rapid resolution of critical issues. Collaborated with stakeholders to align technical solutions with business requirements and improve overall site performance.</p>
       <p>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
+        <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja">
+        <img src="https://img.shields.io/badge/-DreamHost-0073AA?style=flat-square&logo=dreamhost&logoColor=white" alt="DreamHost">
+        <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn">
+        <img src="https://img.shields.io/badge/-Virtualenv-3776AB?style=flat-square&logo=python&logoColor=white" alt="Virtualenv">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
     </td>
     <td>
-      <h3>🌐 Multilingual Content Platform</h3>
-      <p>Platform supporting content creation and consumption across multiple languages with AI translation.</p>
+      <h3>🚸 <a href="https://github.com/daaimah123/Parent-TimeSwap">Parent TimeSwap</a></h3>
+      <p>A space for parents to build an instant network of local parent support towards goals (i.e. school, interviewing, work, conferences, mental health break) by viewing the time availability of local parents, and setting up playdates to determine whether their families are a good fit to help one another during the available times listed.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher">
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
       </p>
     </td>
   </tr>
 </table>
+
+<!-- Technology Badges
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
 -->
 
 ## 📊 Tech Deets
@@ -160,5 +194,5 @@
 
 <!-- Random Fun Fact in Wave Footer -->
 <a href="https://github.com/daaimah123">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wavingtype=wavingtype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercolor=gradienttype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercustomColorList=6,8,9,10,12type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footerheight=120type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footersection=footertype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footertext=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21color=gradienttype=wavingtype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercolor=gradienttype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercustomColorList=6,8,9,10,12type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footerheight=120type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footersection=footertype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footertext=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21customColorList=6,8,9,10,12type=wavingtype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercolor=gradienttype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercustomColorList=6,8,9,10,12type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footerheight=120type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footersection=footertype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footertext=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21height=120type=wavingtype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercolor=gradienttype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercustomColorList=6,8,9,10,12type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footerheight=120type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footersection=footertype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footertext=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21section=footertype=wavingtype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercolor=gradienttype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footercustomColorList=6,8,9,10,12type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footerheight=120type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footersection=footertype=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footertext=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21text=Did%20you%20know?%20My%20mama%20patience%20%28super%2Dpower%29%20allows%20me%20to%20debug%20complex%20issues%21&text=Did%20you%20know?%20I%27ve%20mastered%20the%20art%20of%20context%2Dswitching%21&fontSize=20&fontAlignY=80&animation=fadeIn" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=%20500%20kiddo%20naptimes%20later%2C%20I%27m%20a%20full%2Dstack%20developer%21&fontSize=20&fontAlignY=80&animation=fadeIn" />
 </a>
