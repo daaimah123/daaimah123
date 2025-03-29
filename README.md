@@ -24,7 +24,9 @@
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
+        <a href="https://daaimah123.github.io/skills_matrix/">
+          <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
+        </a>
       </p>
     </td>
     <td>
@@ -36,7 +38,9 @@
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
+        <a href="https://daaimah123.github.io/Daaimah_Portfolio/">
+          <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
+        </a>
       </p>
     </td>
   </tr>
