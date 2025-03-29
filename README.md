@@ -54,7 +54,6 @@
         <img src="https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja">
         <img src="https://img.shields.io/badge/-DreamHost-0073AA?style=flat-square&logo=dreamhost&logoColor=white" alt="DreamHost">
         <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn">
-        <img src="https://img.shields.io/badge/-Virtualenv-3776AB?style=flat-square&logo=python&logoColor=white" alt="Virtualenv">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
     </td>
