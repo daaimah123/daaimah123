@@ -1,8 +1,13 @@
+<!-- Rainbow animated text with each character a different color -->
 <div align="center">
-  <!-- Rainbow animated text with each character a different color -->
-  <div align="center">
-    <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
-  </div>
+  <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
+</div>
+
+<div align="center">
+  <a href="https://www.name-coach.com/daaimah-tibrey" target="_blank" title="Hear how to pronounce my name">
+    <img src="https://img.shields.io/badge/-Hear_my_name-7E3ACF?style=flat-square&logo=speaker&logoColor=white" alt="Hear my name">
+  </a>
+</div>
 
 ## 👀 Peek at Some of My Work
 
