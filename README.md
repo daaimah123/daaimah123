@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Rainbow animated text with each character a different color -->
   <div align="center">
-    <img src="rainbow-name.svg" alt="I'm Daaimah!" width="400" height="50">
+    <img src="rainbow-name.svg" alt="👋 I'm Daaimah!" width="400" height="50">
   </div>
 
 ## 👀 Peek at Some of My Work
