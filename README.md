@@ -160,5 +160,5 @@
 
 <!-- Random Fun Fact in Wave Footer -->
 <a href="https://github.com/daaimah123">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=CURRENT_FUN_FACT&fontSize=20&fontAlignY=80&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,9,10,12&height=120&section=footer&text=🗓️%20Daily%20Fun%20Fact:%20500%20kiddo%20naptimes%20later%2C%20I%27m%20a%20full%2Dstack%20developer%21&fontSize=20&fontAlignY=80&animation=fadeIn" />
 </a>
