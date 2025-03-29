@@ -141,55 +141,331 @@
 
 <!-- Skills section in a more natural flowing layout -->
 <div align="center">
-  <h3>💻 Languages & Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-TypeScript-4FC3F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Python-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-HTML5-7FDBFF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-FF85A2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-SQL-9575CD?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/-React-80DEEA?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Redux-B388FF?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/-Node.js-AEEA00?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Express-FFCA28?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
-    <img src="https://img.shields.io/badge/-Django-FF7043?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/-GraphQL-F48FB1?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-    <img src="https://img.shields.io/badge/-Jest-66BB6A?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  </p>
+  <h3>Languages & Frameworks</h3>
+  <table>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#javascript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+          <br>JavaScript
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#typescript">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          <br>TypeScript
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#python">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          <br>Python
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#html5">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+          <br>HTML5
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#css3">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+          <br>CSS3
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#sql">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+          <br>SQL
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#react">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+          <br>React
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#redux">
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+          <br>Redux
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#nodejs">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+          <br>Node.js
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#express">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+          <br>Express
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#django">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+          <br>Django
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#graphql">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="65" height="65" />
+          <br>GraphQL
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#jest">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="65" height="65" />
+          <br>Jest
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#flask">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+          <br>Flask
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#nextjs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+          <br>Next.js
+        </a>
+      </td>
+<!--    Icon Broken   <td align="center" width="100" height="100">
+        <a href="#tailwind">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
+          <br>Tailwind
+        </a>
+      </td> -->
+      <td align="center" width="100" height="100">
+        <a href="#scss">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="65" height="65" />
+          <br>SCSS
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#jinja">
+          <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="Jinja" width="65" height="65" />
+          <br>Jinja
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <h3>🗄️ Databases & Infrastructure</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-64B5F6?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/-MySQL-FFA726?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-SQLite-FF8A65?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/-AWS-FFD54F?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Heroku-AB47BC?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-    <img src="https://img.shields.io/badge/-Vercel-EC407A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </p>
+  <!-- DATABASES & INFRASTRUCTURE -->
+  <h3>Databases & Infrastructure</h3>
+  <table>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#mongodb">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+          <br>MongoDB
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#postgresql">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+          <br>PostgreSQL
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#mysql">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+          <br>MySQL
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#sqlite">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
+          <br>SQLite
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#aws">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+          <br>AWS
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#heroku">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="65" height="65" />
+          <br>Heroku
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#firebase">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+          <br>Firebase
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#vercel">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+          <br>Vercel
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#render">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="Render" width="65" height="65" />
+          <br>Render
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#nginx">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
+          <br>Nginx
+        </a>
+      </td>
+      <td colspan="2"></td>
+    </tr>
+  </table>
 
-  <h3>🔧 Tools & Practices</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Git-FF5252?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/-Docker-42A5F5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-VS_Code-00B0FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/-GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-Figma-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/-NPM-FF5722?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/-Jira-7E57C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-    <img src="https://img.shields.io/badge/-Postman-FF7043?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/-Agile-26C6DA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-    <img src="https://img.shields.io/badge/-Scrum-29B6F6?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
-    <img src="https://img.shields.io/badge/-Kanban-26A69A?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban" />
-    <img src="https://img.shields.io/badge/-CI/CD-00BCD4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-    <img src="https://img.shields.io/badge/-TDD-8BC34A?style=for-the-badge&logo=jest&logoColor=white" alt="TDD" />
-  </p>
+  <!-- TOOLS & PRACTICES -->
+  <h3>Tools & Practices</h3>
+  <table>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#github">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+          <br>GitHub
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#docker">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+          <br>Docker
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#git">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+          <br>Git
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#npm">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="65" height="65" />
+          <br>NPM
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#vscode">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+          <br>VS Code
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#figma">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+          <br>Figma
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#canva">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
+          <br>Canva
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#bash">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
+          <br>Bash
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#cicd">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="CI/CD" width="65" height="65" />
+          <br>CI/CD
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#tdd">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="TDD" width="65" height="65" />
+          <br>TDD
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#postman">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
+          <br>Postman
+        </a>
+      </td>
+      <td colspan="4"></td>
+    </tr>
+  </table>
+
+  <!-- PRODUCTIVITY & ORGANIZATION -->
+  <h3>Productivity & Organization</h3>
+  <table>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#jira">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="65" height="65" />
+          <br>Jira
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#kanban">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Kanban" width="65" height="65" />
+          <br>Kanban
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#slack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="65" height="65" />
+          <br>Slack
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#gworkspace">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Workspace" width="65" height="65" />
+          <br>G Workspace
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100" height="100">
+        <a href="#asana">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Asana" width="65" height="65" />
+          <br>Asana
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#monday">
+          <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday.com" width="65" height="65" />
+          <br>Monday.com
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#notion">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+          <br>Notion
+        </a>
+      </td>
+      <td align="center" width="100" height="100">
+        <a href="#zoom">
+          <img src="https://cdn.simpleicons.org/zoom" alt="Zoom" width="65" height="65" />
+          <br>Zoom
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <!-- Random Fun Fact in Wave Footer -->
 <a href="https://github.com/daaimah123">
