@@ -19,19 +19,17 @@ jobs:
           # Array of fun facts
           facts=(
             "500 kiddo naptimes later, I'm a full-stack developer!"
-            "My experience as a mama taught me patience that's perfect for debugging complex issues!"
+            "My mama patience (super-power) allows me to debug complex issues!"
             "I've mastered the art of returning to complex code after multiple interruptions!"
-            "I've debugged code one-handed while holding a sleeping baby with the other!"
-            "I've participated in Zoom interviews with cartoon theme songs playing in the background!"
-            "I can write clean, efficient code in 20-minute increments between caregiving tasks!"
-            "I've mastered the art of context-switching: from code reviews to doctor appointments and back again!"
+            "I've debugged code one-handed while holding a baby in the other!"
+            "I've mastered the art of context-switching!"
           )
           
           # Get a random fact
           random_fact="${facts[$RANDOM % ${#facts[@]}]}"
           
           # URL encode the fact (basic version)
-          encoded_fact=$(echo "Did you know? $random_fact" | sed 's/ /%20/g' | sed 's/!/%21/g' | sed "s/'/%27/g" | sed 's/(/%28/g' | sed 's/)/%29/g' | sed 's/+/%2B/g' | sed 's/,/%2C/g' | sed 's/-/%2D/g' | sed 's/\./%2E/g' | sed 's/\//%2F/g')
+          encoded_fact=$(echo "🗓️ Daily Fun Fact: $random_fact" | sed 's/ /%20/g' | sed 's/!/%21/g' | sed "s/'/%27/g" | sed 's/(/%28/g' | sed 's/)/%29/g' | sed 's/+/%2B/g' | sed 's/,/%2C/g' | sed 's/-/%2D/g' | sed 's/\./%2E/g' | sed 's/\//%2F/g')
           
           # Check if the placeholder exists
           if grep -q "text=CURRENT_FUN_FACT" README.md; then
