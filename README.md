@@ -90,7 +90,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=daaimah123&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" height="170">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaimah123&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages" height="170">
   </div>
-  
+  <br>
   <!-- GitHub Trophies with visual separation -->
   <div style="margin-bottom: 30px;">
     <img src="https://github-profile-trophy.vercel.app/?username=daaimah123&theme=juicyfresh&row=1&column=6&margin-w=15" alt="GitHub Trophies">
