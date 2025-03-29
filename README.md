@@ -145,116 +145,77 @@
   <table>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#javascript">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-          <br>JavaScript
-        </a>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
       </td>
       <td align="center" width="100" height="100">
-        <a href="#typescript">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-          <br>TypeScript
-        </a>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
       </td>
       <td align="center" width="100" height="100">
-        <a href="#python">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-          <br>Python
-        </a>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
       <td align="center" width="100" height="100">
-        <a href="#html5">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-          <br>HTML5
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+        <br>HTML5
       </td>
       <td align="center" width="100" height="100">
-        <a href="#css3">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-          <br>CSS3
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+        <br>CSS3
       </td>
       <td align="center" width="100" height="100">
-        <a href="#sql">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-          <br>SQL
-        </a>
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+        <br>SQL
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#react">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-          <br>React
-        </a>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
       </td>
       <td align="center" width="100" height="100">
-        <a href="#redux">
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-          <br>Redux
-        </a>
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+        <br>Redux
       </td>
       <td align="center" width="100" height="100">
-        <a href="#nodejs">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
-          <br>Node.js
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
       </td>
       <td align="center" width="100" height="100">
-        <a href="#express">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
-          <br>Express
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+        <br>Express
       </td>
       <td align="center" width="100" height="100">
-        <a href="#django">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
-          <br>Django
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+        <br>Django
       </td>
       <td align="center" width="100" height="100">
-        <a href="#graphql">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="65" height="65" />
-          <br>GraphQL
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="65" height="65" />
+        <br>GraphQL
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#jest">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="65" height="65" />
-          <br>Jest
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="65" height="65" />
+        <br>Jest
+      </td>
+      <td align="center" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+        <br>Flask
+      </td>
+      <td align="center" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+        <br>Next.js
+      </td>
+      <td align="center" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="65" height="65" />
+        <br>SCSS
         </a>
       </td>
       <td align="center" width="100" height="100">
-        <a href="#flask">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
-          <br>Flask
-        </a>
-      </td>
-      <td align="center" width="100" height="100">
-        <a href="#nextjs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
-          <br>Next.js
-        </a>
-      </td>
-<!--    Icon Broken   <td align="center" width="100" height="100">
-        <a href="#tailwind">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
-          <br>Tailwind
-        </a>
-      </td> -->
-      <td align="center" width="100" height="100">
-        <a href="#scss">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="65" height="65" />
-          <br>SCSS
-        </a>
-      </td>
-      <td align="center" width="100" height="100">
-        <a href="#jinja">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="Jinja" width="65" height="65" />
-          <br>Jinja
-        </a>
+        <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="Jinja" width="65" height="65" />
+        <br>Jinja
       </td>
     </tr>
   </table>
@@ -264,66 +225,46 @@
   <table>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#mongodb">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-          <br>MongoDB
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
       </td>
       <td align="center" width="100" height="100">
-        <a href="#postgresql">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
-          <br>PostgreSQL
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
       </td>
       <td align="center" width="100" height="100">
-        <a href="#mysql">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-          <br>MySQL
-        </a>
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
       </td>
       <td align="center" width="100" height="100">
-        <a href="#sqlite">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
-          <br>SQLite
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
+        <br>SQLite
       </td>
       <td align="center" width="100" height="100">
-        <a href="#aws">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-          <br>AWS
-        </a>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
       </td>
       <td align="center" width="100" height="100">
-        <a href="#heroku">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="65" height="65" />
-          <br>Heroku
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="65" height="65" />
+        <br>Heroku
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#firebase">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
-          <br>Firebase
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+        <br>Firebase
       </td>
       <td align="center" width="100" height="100">
-        <a href="#vercel">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
-          <br>Vercel
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+        <br>Vercel
       </td>
       <td align="center" width="100" height="100">
-        <a href="#render">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="Render" width="65" height="65" />
-          <br>Render
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="Render" width="65" height="65" />
+        <br>Render
       </td>
       <td align="center" width="100" height="100">
-        <a href="#nginx">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
-          <br>Nginx
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
       </td>
       <td colspan="2"></td>
     </tr>
@@ -334,74 +275,52 @@
   <table>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#github">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-          <br>GitHub
-        </a>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
       </td>
       <td align="center" width="100" height="100">
-        <a href="#docker">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-          <br>Docker
-        </a>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
       <td align="center" width="100" height="100">
-        <a href="#git">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-          <br>Git
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+        <br>Git
       </td>
       <td align="center" width="100" height="100">
-        <a href="#npm">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="65" height="65" />
-          <br>NPM
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="65" height="65" />
+        <br>NPM
       </td>
       <td align="center" width="100" height="100">
-        <a href="#vscode">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
-          <br>VS Code
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+        <br>VS Code
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#figma">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
-          <br>Figma
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+        <br>Figma
       </td>
       <td align="center" width="100" height="100">
-        <a href="#canva">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
-          <br>Canva
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
+        <br>Canva
       </td>
       <td align="center" width="100" height="100">
-        <a href="#bash">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
-          <br>Bash
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
+        <br>Bash
       </td>
       <td align="center" width="100" height="100">
-        <a href="#cicd">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="CI/CD" width="65" height="65" />
-          <br>CI/CD
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="CI/CD" width="65" height="65" />
+        <br>CI/CD
       </td>
       <td align="center" width="100" height="100">
-        <a href="#tdd">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="TDD" width="65" height="65" />
-          <br>TDD
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="TDD" width="65" height="65" />
+        <br>TDD
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#postman">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
-          <br>Postman
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
+        <br>Postman
       </td>
       <td colspan="4"></td>
     </tr>
@@ -412,54 +331,38 @@
   <table>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#jira">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="65" height="65" />
-          <br>Jira
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="65" height="65" />
+        <br>Jira
       </td>
       <td align="center" width="100" height="100">
-        <a href="#kanban">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Kanban" width="65" height="65" />
-          <br>Kanban
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Kanban" width="65" height="65" />
+        <br>Kanban
       </td>
       <td align="center" width="100" height="100">
-        <a href="#slack">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="65" height="65" />
-          <br>Slack
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="65" height="65" />
+        <br>Slack
       </td>
       <td align="center" width="100" height="100">
-        <a href="#gworkspace">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Workspace" width="65" height="65" />
-          <br>G Workspace
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Workspace" width="65" height="65" />
+        <br>G Workspace
       </td>
     </tr>
     <tr>
       <td align="center" width="100" height="100">
-        <a href="#asana">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Asana" width="65" height="65" />
-          <br>Asana
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Asana" width="65" height="65" />
+        <br>Asana
       </td>
       <td align="center" width="100" height="100">
-        <a href="#monday">
-          <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday.com" width="65" height="65" />
-          <br>Monday.com
-        </a>
+        <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday.com" width="65" height="65" />
+        <br>Monday.com
       </td>
       <td align="center" width="100" height="100">
-        <a href="#notion">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
-          <br>Notion
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 5px;" />
+        <br>Notion
       </td>
       <td align="center" width="100" height="100">
-        <a href="#zoom">
-          <img src="https://cdn.simpleicons.org/zoom" alt="Zoom" width="65" height="65" />
-          <br>Zoom
-        </a>
+        <img src="https://cdn.simpleicons.org/zoom" alt="Zoom" width="65" height="65" />
+        <br>Zoom
       </td>
     </tr>
   </table>
