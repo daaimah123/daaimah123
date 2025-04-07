@@ -213,10 +213,10 @@
         <br>SCSS
         </a>
       </td>
-      <td align="center" width="100" height="100">
+<!--       <td align="center" width="100" height="100">
         <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="Jinja" width="65" height="65" />
         <br>Jinja
-      </td>
+      </td> -->
     </tr>
   </table>
 
@@ -275,8 +275,8 @@
   <table>
     <tr>
       <td align="center" width="100" height="100">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
+        <br>Postman
       </td>
       <td align="center" width="100" height="100">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -316,13 +316,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="TDD" width="65" height="65" />
         <br>TDD
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
-        <br>Postman
-      </td>
-      <td colspan="4"></td>
     </tr>
   </table>
 
