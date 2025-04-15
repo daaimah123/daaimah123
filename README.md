@@ -48,7 +48,7 @@
   <tr>
     <td>
       <h3>👩🏽‍💻 <a href="https://techtonica.org/">Techtonica Website</a></h3>
-      <p>Maintained and enhanced website functionality since August 2023, implementing new features while ensuring stability through regular updates and rapid resolution of critical issues. Collaborated with stakeholders to align technical solutions with business requirements and improve overall site performance.</p>
+      <p>Since August 2023, I have maintained and enhanced website functionality through regular updates and rapid issue resolution while collaborating with stakeholders to align technical solutions with business requirements.</p>
       <p>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -64,7 +64,7 @@
     </td>
     <td>
       <h3>🚸 <a href="https://github.com/daaimah123/Parent-TimeSwap">Parent TimeSwap</a></h3>
-      <p>A space for parents to build an instant network of local parent support towards goals (i.e. school, interviewing, work, conferences, mental health break) by viewing the time availability of local parents, and setting up playdates to determine whether their families are a good fit to help one another during the available times listed.</p>
+      <p>A platform connecting local parents who can support each other's goals by matching their available times and organizing playdates to test compatibility.</p>
       <p>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
