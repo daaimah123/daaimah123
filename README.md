@@ -93,36 +93,32 @@
 
 -->
 
+<!-- 
 ## 🦄 Current Inspirations
-
-<div align="center">
-  <!-- Using HTML attributes and inline CSS to completely remove borders -->
-  <table cellspacing="0" cellpadding="0" border="0" style="border-collapse: separate; border-spacing: 15px; border: 0; box-shadow: none;">
-    <tr style="border: 0; background: none;">
-      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
-        <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music listening cartoon">
-        <br>
-        <strong>🎶 Favorite Listening Stations</strong>
-        <br>
-        <span><a href="https://tidal.com/browse/playlist/cd604f0e-ffc7-40dc-a5ad-e7f5a12ba61d"> CompassPoint: Energy/Time Playlist </a> • <a href="https://www.pandora.com/station/play/4149682030681786046"> Native American Flute Music</a> • <a href="https://www.pandora.com/station/play/117560884900936441"> Family Reunion Beats</a></span>
-      </td>
-      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
-        <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200" alt="Learning">
-        <br>
-        <strong>🧠 Learning Now</strong>
-        <br>
-        <span>Technical Project Management • Acrylic Painting • Baking Bean Pies</span>
-      </td>
-      <td align="center" style="border: 0 !important; background: none; box-shadow: none; padding: 15px; vertical-align: top; width: 33%;">
-        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" alt="Book reading cartoon">
-        <br>
-        <strong>📚 Currently Reading</strong>
-        <br>
-        <span><a href="https://www.hoopladigital.com/series/glass-and-steele/4388278278"> Glass & Steele Series by C.J. Archer </a>• <a href="https://www.hoopladigital.com/series/binti/2823804653">Binit Series by Nnedi Okorafor</a> • <a href="https://www.hoopladigital.com/series/kay-scarpetta/1402474160"> Kay Scarpetta Series by Patricia Cornwell</a> </span>
-      </td>
-    </tr>
-  </table>
-</div>
+<strong>🎶 Favorite Listening Stations</strong>
+<br>
+<a href="https://tidal.com/browse/playlist/cd604f0e-ffc7-40dc-a5ad-e7f5a12ba61d">    • CompassPoint: Energy/Time Playlist </a>
+<br>
+<a href="https://www.pandora.com/station/play/4149682030681786046">    • Native American Flute Music</a>
+<br>
+<a href="https://www.pandora.com/station/play/117560884900936441">    • Family Reunion Beats</a>
+<br>
+<br>
+<strong>🧠 Learning Now</strong>
+<br>
+<span>    • Technical Project Management
+<br>    • Acrylic Painting
+<br>    • Baking Bean Pies
+<br>
+<br>
+<strong>📚 Currently Reading</strong>
+<br>
+<a href="https://www.hoopladigital.com/series/glass-and-steele/4388278278">    • Glass & Steele Series by C.J. Archer </a>
+<br>
+<a href="https://www.hoopladigital.com/series/binti/2823804653">    • Binit Series by Nnedi Okorafor</a>
+<br>
+<a href="https://www.hoopladigital.com/series/kay-scarpetta/1402474160">    • Kay Scarpetta Series by Patricia Cornwell</a> 
+-->
 
 ## 📊 Tech Deets
 
