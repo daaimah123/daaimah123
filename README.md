@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td>
+  <!-- <td>
       <h3>🚀 <a href="https://github.com/daaimah123/skills_matrix">Skills Matrix</a></h3>
       <p>Career therapy for confused techies! Map what you're good at vs. what you enjoy, find your superpowers, and stop having existential crises during standup. Because "follow your passion" is terrible advice!</p>
       <p>
@@ -29,7 +29,7 @@
           <img src="https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
         </a>
       </p>
-    </td>
+    </td> -->
     <td>
       <h3>📝 <a href="https://github.com/daaimah123/Daaimah_Portfolio">Portfolio App</a></h3>
       <p>Quick peek into my technological background and skillset</p>
@@ -44,9 +44,9 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td>
+  <!-- </tr>
+  <tr> -->
+    <!-- <td>
       <h3>👩🏽‍💻 <a href="https://techtonica.org/">Techtonica Website</a></h3>
       <p>Since August 2023, I have maintained and enhanced website functionality through regular updates and rapid issue resolution while collaborating with stakeholders to align technical solutions with business requirements.</p>
       <p>
@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
-    </td>
+    </td> -->
     <td>
       <h3>🚸 <a href="https://github.com/daaimah123/Parent-TimeSwap">Parent TimeSwap</a></h3>
       <p>A platform connecting local parents who can support each other's goals by matching their available times and organizing playdates to test compatibility.</p>
